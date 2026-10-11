@@ -1,4 +1,4 @@
-# Hi 👋,I'm chandru_shresti
+# Hi👋,I'm Chandrashekar D S
 
 # About Me:
 I'm a engineering student 
