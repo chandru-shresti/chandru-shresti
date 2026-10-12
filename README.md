@@ -17,5 +17,4 @@ I'm a engineering student
 ---
 [![](https://komarev.com/ghpvc/?username=chandru-shresti&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
